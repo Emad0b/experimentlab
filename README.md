@@ -1,5 +1,7 @@
 # ExperimentLab
 
+ExperimentLab helps you decide what an A/B test actually tells you about a product change. Use it to check whether users were assigned as expected, estimate the effect, and decide whether the evidence supports a launch.
+
 Randomisation diagnostics, variance reduction and experiment decisions.
 
 Decide whether a product experiment supports a launch, while refusing to trust a broken assignment/logging process.
